@@ -1,2 +1,2 @@
 # Repositorio-1
-Espacio de prueba Modulo 0, clase de Terminal, Soy Henry
+Prueba de la clonación posterior a la prueba de escritura para este repositorio 
